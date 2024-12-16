@@ -37,7 +37,7 @@ Here are some of the exciting projects I’ve worked on:
 #### 2. **Personal Portfolio Website**
    - A personal portfolio to showcase my skills and projects. Created with **React**.
    - 
-#### 3.
+#### 
 
 ---
 
@@ -64,7 +64,7 @@ Here are some of the exciting projects I’ve worked on:
 
 - **[Project 1 - Doctor Appointment System](https://github.com/your-username/doctor-appointment-system)**
 - **[Project 2 - Personal Portfolio Website](https://github.com/your-username/personal-portfolio)**
-- **[Project 3 - 
+- **
 
 ---
 
