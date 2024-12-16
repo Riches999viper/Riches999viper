@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<!--# 👋 Hi, I'm **Riches Thapa**! 
+<! 👋 Hi, I'm **Riches Thapa**! 
 
 Welcome to my GitHub profile! I am a passionate **Computer Applications (BCA)** student, **tech enthusiast**, love for **sports**, and a **problem solver**. I love exploring new technologies, developing web applications, and working on innovative projects that enhance user experience. 
 
-### 🚀 My Skill Set
+ 🚀 My Skill Set
 
 ![Tech Stack]
 - **Frontend**: React.js, HTML, CSS, JavaScript, bootstrap
