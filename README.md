@@ -2,19 +2,25 @@
 
 <!--# 👋 Hi, I'm **Riches Thapa**! 
 
-Welcome to my GitHub profile! I am a passionate **Computer Applications (BCA)** student, **tech enthusiast**, and a **problem solver**. I love exploring new technologies, developing web applications, and working on innovative projects that enhance user experience. 
+Welcome to my GitHub profile! I am a passionate **Computer Applications (BCA)** student, **tech enthusiast**, love for **sports**, and a **problem solver**. I love exploring new technologies, developing web applications, and working on innovative projects that enhance user experience. 
 
 ### 🚀 My Skill Set
 
 ![Tech Stack]
 - **Frontend**: React.js, HTML, CSS, JavaScript, bootstrap
 - **Backend**: PHP, Python
+- **Tool and design: Figma, Adobe xD
 - **Database**: MySQL
 - **Programming Languages**: Python, Java, Php
+- **version control: Git and GitHub
 - **Cloud Computing**: AWS (Basic Knowledge)
 - **Digital Marketing**: SEO, Content Marketing, Social Media Strategies (Basic Knowledge)
 
 ---
+### ⚽ Beyond Coding:  
+- A dedicated **sports enthusiast**, channeling the teamwork and resilience learned on the field into my work.  
+- A strong believer in **optimism** and **hard work** as keys to success.  
+
 
 ### 📈 My GitHub Stats
 
