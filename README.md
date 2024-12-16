@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a passionate **Computer Applications (BCA)** 
 - **Frontend**: React.js, HTML, CSS, JavaScript, bootstrap
 - **Backend**: PHP, Python
 - **Database**: MySQL
-- **Programming Languages**: Python, Java, Php, 
+- **Programming Languages**: Python, Java, Php
 - **Cloud Computing**: AWS (Basic Knowledge)
 - **Digital Marketing**: SEO, Content Marketing, Social Media Strategies (Basic Knowledge)
 
